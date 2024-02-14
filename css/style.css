@@ -1,0 +1,36 @@
+/* Start writing your CSS */
+
+h1{
+    font-size: 30px;
+    color: orange;
+    text-decoration: underline;
+    padding: 5%;
+
+
+
+}
+
+nav{
+    background-color: blue;
+    margin: 0 auto;
+
+}
+
+
+nav p{
+    font-size: 50px;
+    color: gray;
+    line-height: 1.5%;
+}
+
+#main_content{
+    margin: 2%;
+    background-color: bisque;
+    font-size: 18px;
+    color: blueviolet;
+}
+
+.yum{
+    font-weight: bold;
+    text-decoration: underline;
+}
